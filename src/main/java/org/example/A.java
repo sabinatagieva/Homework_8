@@ -1,3 +1,5 @@
+package org.example;
+// В файле A.java
 public class A {
     public static class B {
         // Внутренний статический класс B
